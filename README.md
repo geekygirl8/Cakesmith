@@ -1,12 +1,5 @@
 # The Cakesmith
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d4a75cb2-baa6-429b-8a89-a0c48bb33da4/deploy-status)](https://app.netlify.com/sites/thecakesmith/deploys)
-![GitHub language count](https://img.shields.io/github/languages/count/GaganpreetKaurKalsi/LGMVIP-WebDev) 
-![GitHub top language](https://img.shields.io/github/languages/top/GaganpreetKaurKalsi/LGMVIP-WebDev?color=yellow) 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GaganpreetKaurKalsi/LGMVIP-WebDev)
-![GitHub forks](https://img.shields.io/github/forks/GaganpreetKaurKalsi/LGMVIP-WebDev?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/GaganpreetKaurKalsi/LGMVIP-WebDev?style=social)
-
 ![image](https://user-images.githubusercontent.com/54144759/125275675-f4334900-e32c-11eb-961e-75043807525c.png)
 <p align = "center"><b>Single Page Website - The Cakesmith</b></p>
 <br>
