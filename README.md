@@ -98,12 +98,6 @@ https://user-images.githubusercontent.com/54144759/125281493-e92fe700-e333-11eb-
 
 <br>
 
-## 📌 Link to Portfolio 
-### https://gaganpreetkaurkalsi.netlify.app/
-
-
-<br>
-
 <h3 align="center">THANK YOU!</h3>
 
  
